@@ -1,0 +1,11 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">ProducerConsumer</string>
+    <string name="recent_tuple">
+        Last tuple: <xliff:g example="AAAA" id="tupleName">%1$s</xliff:g>
+    </string>
+    <string name="queue_size">
+        Queue size: <xliff:g example="4" id="queueSize">%1$d</xliff:g>
+    </string>
+
+</resources>
